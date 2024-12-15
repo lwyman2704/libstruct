@@ -1,9 +1,9 @@
 //********************************************************
 // libstruct.c
 // Author: Lorenzo Wyman
-// UCFID: 5464079
+//
 // Date: 11/16/2024
-// Class: COP 3223, Professor Parra
+// 
 // Purpose: This program allocates memory for books in a library and stores, removes, checks out
 // returns or finds the books based off what is read from the input file.
 // Input: The files that are given
