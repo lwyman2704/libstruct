@@ -1,0 +1,23 @@
+add
+Hyrule Encyclopedia, Nintendo, 2018
+add
+Hyrule Historia, King Rhoam, 2017
+add
+Hyrule Historia, King Rhoam, 2017
+add
+Arts and Artifacts, Nintendo, 2017
+remove
+Hyrule Historia, King Rhoam, 2017
+remove
+Creating a Champion, Nintendo, 2018
+print
+add
+Hyrule Historia, King Rhoam, 2017
+checkout
+Hyrule Historia, King Rhoam, 2017
+checkout
+Hyrule Historia, King Rhoam, 2017
+return
+Arts and Artifacts, Nintendo, 2017
+return
+Hyrule Historia, King Rhoam, 2017
